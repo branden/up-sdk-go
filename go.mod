@@ -1,4 +1,4 @@
-module github.com/upbound/up-sdk-go
+module github.com/branden/up-sdk-go
 
 go 1.23.1
 
